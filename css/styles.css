@@ -46,7 +46,28 @@ img {
         margin: 0 auto;
     }
 } */
-    
+   
+@media screen and (max-width: 767.98px) {
+.nav-list {
+    display: none;
+}
+}
+
+.address-list {
+    display: none;
+}
+
+.header-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 17.5px 16px;
+}
+
+.menu-btn {
+    display: flex;
+    align-items: center;
+}
 
 .logo {
     color: #4D5AE5;
@@ -68,12 +89,13 @@ img {
     width: 320px;
     height: 432px;
     margin: 0 auto;
-    padding: 72px 16px;
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
+    padding: 72px 0;
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/mobile-background-hero.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #2E2F42;
+    text-align: center;
 }
 
 
