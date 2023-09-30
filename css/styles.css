@@ -47,10 +47,8 @@ img {
     }
 } */
    
-@media screen and (max-width: 767.98px) {
 .nav-list {
     display: none;
-}
 }
 
 .address-list {
