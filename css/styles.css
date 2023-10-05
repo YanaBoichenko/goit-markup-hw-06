@@ -876,7 +876,7 @@ placeholder {
 }
 
 .hero-section {
-    min-width: 1140px;
+    min-width: 1440px;
     min-height: 600px;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
     padding: 188px 0;
