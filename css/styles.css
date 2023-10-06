@@ -746,6 +746,11 @@ placeholder {
         margin: 0;
     }
 
+    .images-potfolio {
+        width: 356px;
+        height: 300px;
+    }
+
     .card-set {
         display: flex;
         flex-direction: row;
