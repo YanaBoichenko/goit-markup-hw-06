@@ -102,7 +102,7 @@ img {
 
 .hero-section {
     background-color: #434455;
-    width: 320px;
+    /* width: 320px; */
     height: 432px;
     margin: 0 auto;
     padding: 72px 0;
@@ -692,7 +692,7 @@ placeholder {
         }
     
     .hero-section {
-        min-width: 768px;
+        /* min-width: 768px; */
         min-height: 436px;
         background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), 
         url(../images/hero-bg/hero-bg-tab.jpg);
@@ -821,7 +821,7 @@ placeholder {
 }
 
 .hero-section {
-    min-width: 1440px;
+    /* min-width: 1440px; */
     min-height: 600px;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/hero-bg/hero-bg-desktop.jpg);
     padding: 188px 0;
