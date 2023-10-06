@@ -324,6 +324,7 @@ img {
 .portfolio-examples {
     position: relative;
     overflow: hidden;
+    width: 3;
 }
 
 .pop-up-card {
